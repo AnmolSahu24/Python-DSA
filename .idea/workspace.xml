@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="152bdefb-f58b-4736-9a55-7984617bb358" name="Changes" comment="New py file for Matrix Diagonal Sum" />
+    <list default="true" id="152bdefb-f58b-4736-9a55-7984617bb358" name="Changes" comment="New py file for Matrix Diagonal Sum">
+      <change beforePath="$PROJECT_DIR$/Array/1572.Matrix Diagonal Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/1572.Matrix Diagonal Sum.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20Uq0Jd204nSigJkg9gxaEK6NMH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
