@@ -6,3 +6,4 @@ def TruncateSentance(str,k):
 
 
 TruncateSentance("Hello how are you Contestant",4)
+
