@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="152bdefb-f58b-4736-9a55-7984617bb358" name="Changes" comment="New py file for Matrix Diagonal Sum">
-      <change afterPath="$PROJECT_DIR$/Array/1.Two Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/206.Reverse a LinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/LenghtofLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/ReverseInteger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/Sqrt(x).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting Algos/SelectionSort(String).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting Algos/SelectionSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/13. Roman to Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/3. Longest SubString without Repeating Characters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,31 +38,35 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="20Uq0Jd204nSigJkg9gxaEK6NMH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RunManager" selected="Python.Palindrome">
-    <configuration name="206.Reverse a LinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SelectionSort(String)">
+    <configuration name="13. Roman to Integer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="E:\Python\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/206.Reverse a LinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/13. Roman to Integer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,19 +75,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LenghtofLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3. Longest SubString without Repeating Characters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="E:\Python\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/LenghtofLinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/3. Longest SubString without Repeating Characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,19 +117,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReverseInteger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="E:\Python\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maths" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting Algos" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maths/ReverseInteger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting Algos/SelectionSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,19 +138,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sqrt(x)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionSort(String)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="E:\Python\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maths" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting Algos" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maths/Sqrt(x).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting Algos/SelectionSort(String).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SelectionSort(String)" />
+        <item itemvalue="Python.SelectionSort" />
+        <item itemvalue="Python.13. Roman to Integer" />
+        <item itemvalue="Python.3. Longest SubString without Repeating Characters" />
         <item itemvalue="Python.Palindrome" />
-        <item itemvalue="Python.ReverseInteger" />
-        <item itemvalue="Python.Sqrt(x)" />
-        <item itemvalue="Python.206.Reverse a LinkedList" />
-        <item itemvalue="Python.LenghtofLinkedList" />
       </list>
     </recent_temporary>
   </component>
