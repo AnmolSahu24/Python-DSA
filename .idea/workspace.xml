@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="152bdefb-f58b-4736-9a55-7984617bb358" name="Changes" comment="New py file for Matrix Diagonal Sum">
-      <change afterPath="$PROJECT_DIR$/Array/11.Container With Most Water.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/13. Roman to Integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/1431. Kids With the Greatest Number of Candies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/1450. Number of Students Doing Homework at a Given Time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/1470.Shuffle the Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/1748. Sum of Unique Elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/26. Remove Duplicates from Sorted Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algos/1051. Height Checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algos/15. 3Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/14. Longest Common Prefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/1678. Goal Parser Interpretation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/17. Letter Combinations of a Phone Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/20. Valid Parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/2068. Check Whether Two Strings are Almost Equivalent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/2114. Maximum Number of Words Found in Sentences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/5. Longest Palindromic Substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/8. String to Integer (atoi).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/1389. Create Target Array in the Given Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/1389. Create Target Array in the Given Order.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
