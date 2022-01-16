@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="152bdefb-f58b-4736-9a55-7984617bb358" name="Changes" comment="New py file for Matrix Diagonal Sum">
-      <change afterPath="$PROJECT_DIR$/Array/1365.Num smaller than the current number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/1637. Widest Vertical Area b/w two concat. points.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/1725.No. of Rectangles that can form largest square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/1281. Subtract the Prod and Sum of Digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/1828.Quries on Number of Points Inside Circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrix/1572. Matrix Diagonal Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algos/1859. Sorting the Sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algos/2037. Min. No. of Moves to Seat Everyone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algos/561. Array Partition I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algos/905. Sort By parity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting Algos/BubbleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/11.Container With Most Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/13. Roman to Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/1431. Kids With the Greatest Number of Candies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/1450. Number of Students Doing Homework at a Given Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/1470.Shuffle the Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/1748. Sum of Unique Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/26. Remove Duplicates from Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting Algos/1051. Height Checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting Algos/15. 3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/14. Longest Common Prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/1678. Goal Parser Interpretation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/17. Letter Combinations of a Phone Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/20. Valid Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/2068. Check Whether Two Strings are Almost Equivalent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/2114. Maximum Number of Words Found in Sentences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/5. Longest Palindromic Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/8. String to Integer (atoi).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,20 +65,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RunManager" selected="Python.561. Array Partition I">
-    <configuration name="1859. Sorting the Sentence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1431. Kids With the Greatest Number of Candies">
+    <configuration name="1431. Kids With the Greatest Number of Candies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="E:\Python\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting Algos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting Algos/1859. Sorting the Sentence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/1431. Kids With the Greatest Number of Candies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,19 +87,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2037. Min. No. of Moves to Seat Everyone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1450. Number of Students Doing Homework at a Given Time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="E:\Python\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting Algos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting Algos/2037. Min. No. of Moves to Seat Everyone.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/1450. Number of Students Doing Homework at a Given Time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,19 +108,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="561. Array Partition I" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1748. Sum of Unique Elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="E:\Python\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting Algos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting Algos/561. Array Partition I.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/1748. Sum of Unique Elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,19 +129,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="905. Sort By parity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2114. Maximum Number of Words Found in Sentences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="E:\Locust.io\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting Algos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting Algos/905. Sort By parity.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/2114. Maximum Number of Words Found in Sentences.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8. String to Integer (atoi)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/8. String to Integer (atoi).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,34 +192,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="w two concat. points" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="E:\Locust.io\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array/1637. Widest Vertical Area b" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Array/1637. Widest Vertical Area b/w two concat. points.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.561. Array Partition I" />
-        <item itemvalue="Python.905. Sort By parity" />
-        <item itemvalue="Python.w two concat. points" />
-        <item itemvalue="Python.2037. Min. No. of Moves to Seat Everyone" />
-        <item itemvalue="Python.1859. Sorting the Sentence" />
+        <item itemvalue="Python.1431. Kids With the Greatest Number of Candies" />
+        <item itemvalue="Python.8. String to Integer (atoi)" />
+        <item itemvalue="Python.2114. Maximum Number of Words Found in Sentences" />
+        <item itemvalue="Python.1748. Sum of Unique Elements" />
+        <item itemvalue="Python.1450. Number of Students Doing Homework at a Given Time" />
       </list>
     </recent_temporary>
   </component>
