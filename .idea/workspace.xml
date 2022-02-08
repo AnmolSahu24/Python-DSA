@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="152bdefb-f58b-4736-9a55-7984617bb358" name="Changes" comment="New py file for Matrix Diagonal Sum">
-      <change afterPath="$PROJECT_DIR$/Array/121. Best Time to Buy and Sell Stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/169. Majority Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/53. Maximum Subarray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/1313. Decompress Run-Length Encoded List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/1313. Decompress Run-Length Encoded List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/189. Rotate Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/189. Rotate Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/2057. Smallest Index With Equal Value.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/2057. Smallest Index With Equal Value.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/217. Contains Duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/217. Contains Duplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/347. Top K Frequent Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/347. Top K Frequent Elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matrix/1337. The K Weakest Rows in a Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrix/1337. The K Weakest Rows in a Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matrix/883. Projection Area of 3D Shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matrix/883. Projection Area of 3D Shapes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/720. Longest Word in Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/720. Longest Word in Dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/169. Majority Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Array/169. Majority Element.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

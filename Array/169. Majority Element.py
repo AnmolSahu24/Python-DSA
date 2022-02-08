@@ -9,6 +9,7 @@ def Majority(nums):
 
     for k in majority:
         maj_key = max(majority,key = majority.get)
+        print("Anmol")
         return maj_key
 
 
